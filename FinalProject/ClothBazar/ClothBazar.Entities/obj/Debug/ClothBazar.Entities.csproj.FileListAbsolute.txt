@@ -1,0 +1,6 @@
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.dll
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\bin\Debug\ClothBazar.Entities.pdb
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csproj.CoreCompileInputs.cache
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.dll
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.pdb
+E:\University\7th Semester\WEB and APP\FinalProject\ClothBazar\ClothBazar.Entities\obj\Debug\ClothBazar.Entities.csprojAssemblyReference.cache
